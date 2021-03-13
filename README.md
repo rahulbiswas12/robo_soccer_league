@@ -1,4 +1,4 @@
-# Robo-soccer
+# robo-soccer-league
 
 # Bot Setup
 Circuit Diagram:
@@ -11,6 +11,12 @@ The robot chassis which I am using in this Bluetooth Controlled Robot Car projec
 
 NOTE: I have used L298N Motor Driver Module to drive the motors of the robot. You can use either this one or L293D Motor Driver Module. If you are using L293D, then check out for the connections.
 
+# Coding 
+The code is attached with this repo. [Click Here](https://github.com/rahulbiswas12/Robo-soccer/blob/master/Code.ino)
 
+# Installation
+Download the [Arduino IDE](https://www.arduino.cc/en/Main/Software) by visiting the Link and install it in your System
+Download the [Android App](https://play.google.com/store/apps/details?id=braulio.calle.bluetoothRCcontroller)
+Connect with the Bluetooth and Control Your Bot!
 
-<img src="https://raw.githubusercontent.com/rahulbiswas12/Robo-soccer/master/9ec1ce5e-913a-4742-8f09-77370eb90332.jpg" width="800px">
+![alt text]<img src="https://raw.githubusercontent.com/rahulbiswas12/Robo-soccer/master/9ec1ce5e-913a-4742-8f09-77370eb90332.jpg" width="800px">
