@@ -1,4 +1,5 @@
-# robo-soccer-league
+# robo_soccer_league
+
 
 # Bot Setup
 Circuit Diagram:
