@@ -16,7 +16,8 @@ The code is attached with this repo. [Click Here](https://github.com/rahulbiswas
 
 # Installation
 Download the [Arduino IDE](https://www.arduino.cc/en/Main/Software) by visiting the Link and install it in your System
+
 Download the [Android App](https://play.google.com/store/apps/details?id=braulio.calle.bluetoothRCcontroller)
 Connect with the Bluetooth and Control Your Bot!
 
-![alt text]<img src="https://raw.githubusercontent.com/rahulbiswas12/Robo-soccer/master/9ec1ce5e-913a-4742-8f09-77370eb90332.jpg" width="800px">
+<img src="https://raw.githubusercontent.com/rahulbiswas12/Robo-soccer/master/9ec1ce5e-913a-4742-8f09-77370eb90332.jpg" width="800px">
